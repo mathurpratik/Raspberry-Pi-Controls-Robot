@@ -8,3 +8,6 @@ The OpenCV object-tracking demo found here: https://docs.opencv.org/3.4/d6/d7f/s
 Under the raspi_arduino directory you will find a file raspi_arduino.ino written using the Arduino language that recevies "Turn Left" or "Turn Right" signals from the Raspberry Pi. 
 
 For more details, please view the PDF file found here: https://github.com/mathurpratik/Raspberry-Pi-Controls-Robot/blob/main/ENEE699-Section-0301-Mathur-Pratik.pdf
+
+
+![Screenshot](raspi_arduino.png)  ![Screenshot](robot.png)
