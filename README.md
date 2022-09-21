@@ -1,5 +1,7 @@
+
 # Raspberry-Pi-Controls-Robot
-This project demonstrates that a Raspberry Pi can be used to control a robot with wheels using a web camara. 
+Running the Makefile on a Raspberry Pi running the Raspberry Pi OS will generate a binary. Running this binary will launch the OpenCV GUI, where the user can select an object to track.  Once the object has been selected, the algorithm will track the object has it moves around the screen.   
+This project, in particular, demonstrates that a Raspberry Pi can be used to control a robot with wheels using a web camara. 
 The OpenCV object-tracking demo found here: https://docs.opencv.org/3.4/d6/d7f/samples_2cpp_2camshiftdemo_8cpp-example.html was modfied to send a "Turn Left" or "Turn Right" signals to a robot. 
 
 # Arduino Mega
